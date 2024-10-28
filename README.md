@@ -5,6 +5,10 @@
 [![GitHub Repo stars](https://img.shields.io/github/stars/1j01/98)](https://github.com/1j01/98/stargazers)
 
 A web based Windows 98 desktop remake.
+limitations to web browser includes if you caint put it inside of an Iframe or Embed element it will not work at all.
+
+the binifets:
+dosnt rely on web.archive.org to pull up the sites
 
 Includes:
 * ![](images/icons/notepad-16x16.png) Notepad ([separate README](programs/notepad/README.md))
